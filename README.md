@@ -7,7 +7,7 @@
 
 爬取验证码：
 
-！[image]（https://raw.githubusercontent.com/Echolee527/shmtu_y0_OCR/master/img/2.jpg）
+![Image text]（https://raw.githubusercontent.com/Echolee527/shmtu_y0_OCR/master/img/2.jpg）
 
 2.文字提取--李越、瞿俊杰、谢钰榕（时间节点未定）
 
